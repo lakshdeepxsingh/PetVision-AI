@@ -10,21 +10,7 @@ https://github.com/user-attachments/assets/d0a38dbd-1e50-4c18-963d-d4cfbce6c4e5
 
 ---
 
-# 📸 Screenshots
 
-## Dashboard
-![Dashboard](Media/Dashboard.png)
-
-## Prediction Result
-![Prediction Result](Media/Prediction-Result.png)
-
-## Prediction History
-![Prediction History](Media/Predicted-History.png)
-
-## Saved Results
-![Saved Results](Media/Saved-results.png)
-
----
 
 # ✨ Features
 
