@@ -320,7 +320,7 @@ with st.sidebar:
             <div class="pv-logo-icon">🐾</div>
             <div>
                 <div class="pv-logo-text-main">PetVision AI</div>
-                <div class="pv-logo-text-sub">Image Classifier</div>
+                <div class="pv-logo-text-sub">Cat vs Dog Classifier</div>
             </div>
         </div>
         """,
