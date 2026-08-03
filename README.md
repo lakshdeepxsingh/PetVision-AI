@@ -81,9 +81,3 @@ streamlit run app.py
 ```
 
 ---
-
-# 👨‍💻 Author
-
-**Lakshdeep Singh**
-
-GitHub: https://github.com/lakshdeepxsingh
